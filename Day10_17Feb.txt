@@ -1,0 +1,19 @@
+Q1 create dataframe where we have the third line as header
+
+Q2 Create dataframe from a file assume the first line not to be a header and create it's column name
+
+Q3 Read any dataframe from any file, remove all the nan value
+Create a csv file and save it seprated by "$" delimitter
+
+using that saved file try to create another dataframe
+
+Q4 
+create a csv file
+
+1,Tushar,goyal,80
+2,aman,akar,70
+
+
+Create the dataframe as mentioned below from the csv file that is mentioned above
+1,Tushar Goyal,80
+2,Aman Akar,70

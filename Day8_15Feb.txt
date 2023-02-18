@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datatype in Python
+
+What is PIP
+
+What is the difference between deep and shallow co
+
+What is multi-threading and how we achieve it
+
+Empty class with variable initialize
+
+Docstring from comment
+
+how to default run python file in other system
+
+xrange & range method
+
+how we can check whether a object belong to a class or not
+
+package and a module

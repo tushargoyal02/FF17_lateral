@@ -1,0 +1,71 @@
+Q1 Take an input from the user and check the data based on the following condition
+ - The data should be of string data type
+ - The length of the input should lie in the range from 6 to 15 character in length
+- The input should have atleast 1 capital letter ( A to Z)
+- 1 smaller letter ( A to J)
+- 1 Number ( 0 to 9)
+- 1 Special character (  # @ $  %)
+
+In case any of the condition is not valid ask for the input from the user upto 4 times otherwise exit the program by putting a message input give is wrong
+
+[NOTE : We don't have to use any input library or using any regular expression or re or no isnumberic() or isalphabat() like this or upper lower method]
+
+char in ['A','B','C']
+char in "ABCDEFGHI"
+]
+
+
+Q2 why we are able to create empty tuple in python?
+ ( paraenthesis are optional)
+
+Q3 find out difference list vs tuple
+	- list mutuable tuple immutable
+	- []  , ()
+	- Tuple are faster but why?
+
+
+Q4 How to launch an ec2 instance with Python 
+	( boto3 library )
+	- AMI 
+
+Q5 find out the working of Zip vs enumerate method
+
+Q6 Take an input string from a user and return all the unique words from the string 
+	Input  = "hey user hey tushar hope you are well. hey you"
+	
+	output = "hey user tushar hope you are well."
+
+Q7 In the string find out how many vowels are present with it count
+	Example: "Futurense"
+	u => 2 , e=> 2
+
+Q8 Take input from the user and check for the smallest / least occurance of the chracter and show in the final output with it's occurance
+  in case there is a tie print any of the count of first character appearance
+
+  Example "User Banglore"
+	"U" has count of 1
+
+Q9 Check the input string provided by the user, in case the string provied is starting with the vowel we add on "ing" in the last
+	otherwise we add on "esy" in the end of the string
+
+
+Topics for tomorrow
+- Functional programming
+- Parameter vs Argument
+- Lambda functions
+- Passing argumnet to the function
+- Problem solving skills 
+- Interview question
+
+
+=> Data type ( String manipulation
+	
+
+
+
+
+
+Good morning!
+
+Loops ?
+

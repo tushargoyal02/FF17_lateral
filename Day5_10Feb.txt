@@ -1,0 +1,16 @@
+Q1 
+Create a class having 3 instance variable
+- Compare the addition of square of each individual is greater than the addition of square of second object
+return false otherwise return true
+
+Example : (2,1,4)    (3,4,1)
+	2**2 +1 **2 +4**2   => 21
+	3**2 + 4**2+1**2   => 25
+
+	21>25  ( return true)  otherwise false
+
+Q2 Method overloading & method overiding
+Q3 Method resolution order ( MRO)
+
+
+class variable => if make change with object => change done in memory of object ( original data will be same)

@@ -1,0 +1,60 @@
+What is Python Array
+
+Q1 What is __name__==__main__
+Q2 Revise about decorator
+Q3 Constructor in classes
+Q4 Iterator vs Generator
+Q5 Iterator vs Iterable
+Q6 Collections => 
+	DefaultDict, counter, NamedTuple
+
+"""
+Python  => compiler vs interpretor
+List vs tuple 
+sets
+functions  *args , **kwargs
+Lambda function => normal functions
+exceptional handling => try except
+Exception vs Error
+
+class & object => constructor ( how multiple constructor)
+
+__new__() vs __init__
+
+Method overloading vs method overidding
+
+Inheritence
+
+_, __
+
+high order vs first class functions
+
+Decorator technical term
+Generator
+
+
+# Sorting algorithm
+# Array
+
+
+
+"""
+
+
+Decorator?
+Iterator vs iterable
+generator
+lambda funcitons
+
+Collections:
+container that we used to store the object
+Accesing or iterating ( iterator)
+
+List, Tuple
+
+orderedDict
+Counter
+NameTuple
+DefaultDict
+deque
+

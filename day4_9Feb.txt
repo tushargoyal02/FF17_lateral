@@ -1,0 +1,19 @@
+Q1 Take the input from the user in the command seprated format and check that word is present in the file data.txt
+	- If yes insert the data into another file matchedData.txt
+
+
+Q2 How to read the csv file in Python  ( csvData.txt)
+	Example
+	name,age,email
+	tushar,60,tushar@gmail.com
+	happy,50,happy@yahoo.com
+	janny,40,janny@gmail.com
+
+( You need to read the csv file but without the header)
+- In case if the user belong to the domain of "gmail.com" in the email column
+Insert those user seprated by "$" sign into a new file called as "dollarSeprated.txt"
+
+Output:	tushar$tushar@gmail.com
+
+Q3: Difference between method overloading & method overidding
+

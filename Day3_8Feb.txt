@@ -1,0 +1,112 @@
+Q1 Take 2 number from the user => and check whether it's integer or not
+	- If integer find the LCM of both the number
+
+
+Q2 Create a function which takes an parameter of string type
+	- Accept the string in case if the string contains
+	Vowels ( a,e,i,o,u)
+
+Q3 Accept the string in case if we have vowels but in even positions of the data ( all vowels)
+
+Otherwise return string not accepted
+
+
+Q4 Create a function which takes the tuple as argument & we need to calcualte the lcm for every value of that tuple using functions
+	[Optimal approach]
+
+Q5 [Interview question] First class functions vs High order functions
+
+Q6 Create a lambda function to get the table of any number
+"2
+4
+6
+8
+10"
+
+Q7 [Interview question] Learn about differnt life scope of a variable 
+present in Python
+Q8 swapping number without 3rd variable
+
+Q9 [Interview question] Difference between ASCII & UTF format encoding
+	( Python follows which encoding)
+
+Q10 Difference between Exception & Error
+
+
+
+
+
+
+
+
+
+Functional programming
+
+Functions?
+Block of statement => write logic => n number of time
+
+
+public static void main(String[] args)
+
+
+Advantages of function
+- code reusability
+- Large problem => seprate in block
+- Debugging is easy
+
+
+variable => going to hold the value
+
+def functiona(parameter,par2,par3):
+	statement
+
+
+var=10
+argument 
+functiona(var,10,20)
+
+
+
+
+Note:
+In function we pass the data based on call by object refernece
+
+- In case you pass an argument as immutable data type
+	- And in function any variable with same reference make the changes, changes are done in new memory for the variable inside the functions
+	- original data will remain same
+
+
+- In case you pass argument as mutuable data type
+	- The variable inside the functions if it makes any changes
+	changes are also seen on original data as they have the same memory address here
+
+
+
+
+
+Topics covered today on Day3:
+
+Functions
+- How object reference as parameter in the function
+( Mutuable vs immutable)
+- Type of arguments
+ - *args **kwargs
+
+- Lambda functions
+- First class & high order functions
+- Lambda functions as with map, filter, reduce
+- Lambda functions in functional programming approach
+
+
+Topics to be 
+- Exceptional handling
+- File handling
+- List , dictionary & set comprehension
+- Classes & Object
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+Q1 Take the 2 input from the user, check whether given is integer or not
+- if the values are integer then just do all the arthimetic operation other return an statement , "value don't belong to numerical data"
+
+Q2 Learn about different life scope of variable in Python
+
+Q3 Write a program to take an input from the user & validate following  condition
+ - the length of the password should vary from 6 character to 16 character
+ - password should have 1 capital letter ( A to Z)
+ - password should have 1 small letter ( a to z)
+ - password should have 1 number ( 0 to 6)
+ - should have 1 special character @ # $
+ - if any condition is not fulfilled then ask for the input from the user upto 3 times
+ - after 3rd try print the message "Try limit exceed"
+ NOTE [Dont use any library of python like regular expression] 
+
+
+Q4
+   *
+  * *
+ * * *
+
+
+Q5 
+	*******
+	 *****
+	  ***
+	   *
+
+Q6 namespace in Python & types
+
+
+Q7
+****
+*  *
+*  *
+*  *
+****
+
+Q8 Finding unique words from a string & return string
+
+Q9 First class function vs high order functions
+
+Q10 Identifier Vs keywords
+
+Q11 FrozenSet vs Set
+
+
+Q12 Variable storage location? and why
+
+Q13 Zip vs enumerate function in python
+
+Q14 convert number into octal , hexadecimal & binary
+
+Q15 Create a function , to take a list as argument and update every element by multiplying it by 2 on the same index position of the list
+                  
+
+
+Q15 create a lambda function take an argument as a list & should return the average of the complete list
+
+
+[] Add python to path ( tick mark)
+
+
+
+
+
+

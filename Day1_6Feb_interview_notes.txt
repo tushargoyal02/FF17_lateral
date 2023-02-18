@@ -1,0 +1,221 @@
+Q1 Difference between .py and .pyc file
+Q2 Identifier vs keyword
+Q3 to implement bitwise XOR operator
+Q4 In which memory the variable are created ? 
+Q5 Take two input from the user and validate the input given if it's integer then perform the arithmetic operation other ask fir the user
+	int( input("Enter"))
+	10
+	'A'
+
+Q6 Take a input from the user and check for the string should remove all the repetative character and return the final string
+	Example => hello
+	Ans	=> heo
+
+	Example => inkokk
+		=> inko
+
+	Example : iivosss
+		: vo
+
+
+Q7 
+*
+**
+***
+****
+
+Q8 
+****
+***
+**
+*
+
+Q9 
+
+A
+AB
+ABC
+ABCD
+
+
+Q10 
+A
+BC
+DEF
+GHIJ
+
+Q11
+1
+12
+123
+1234
+
+Q12
+
+    *
+   ***
+  *****
+ *******
+
+Q13
+
+  *******
+   *****
+    ***
+     *
+
+Q14
+ ****
+ *  *
+ *  *
+ ****
+
+Q15
+1
+2 4 
+3 6 9
+4 8 12 16
+5 10 15 20 25
+	
+
+
+
+
+Python ( Data Engineer / Scientist) 
+Functional programming
+Scala
+Java
+-> to get the rsult => faster
+Interpreted langauge
+
+compiler => meditator
+high -> (compile time) => syntax error(mediator file) -> execute that mediator file   -> ml ( 0,1,1)
+.java
+
+
+interpretor => it create that meditar file in the background
+
+Python is simple ( functional + oops)
+- simpler 
+- syntax
+- function
+- good set of library
+- data sciene, se, cyber security, automation
+- web application ( flask, django, bottle)
+- tkinter
+
+Python => 
+
+dynamic typed langauge
+<data type> <variable> = <value>
+	<variable> = <value>
+
+Variable 
+
+data type
+int, float, string, dictionary, list, tuple, set
+frozenset, boolean, complex
+
+
+Mutuable : dictionary, list, set
+Immutable : int, string, float,  tuple, frozen, boolean, complex
+
+
+
+
+
+
+bitwise
+	8421
+
+0-15
+
+	8421
+7	0111
+13	1101
+--------------
+|	1111
+
+&	0101
+
+
+Bitwise right shift 
+left shift
+
+11
+128 64 32 16   8 4 2 1
+ 0  0  0  0    1 0 1 1
+ X  0  0  0    1 0 1 1
+ 0  0  0  0    0 1 0 1 
+
+
+
+Slicing operator
+
+
+extracting the portiton from a data  ( string)
+
+STRING : SEQUENTIONAL COLLECTION OF CHARACTER
+POSITION TO DEFINE ( INDEX POSITION) 
+
+
+	    -3   -2  -1
+	BANGLORE
+	01234567
+
+
+case no switch
+
+
+
+Looping statement
+
+Loops => repeatitive opearation
+for 
+whilew
+
+for(i=0; i<cond; i++
+
+i=0
+while(i<condition)
+
+	i++
+
+Q to find the prime number from 1 to 100
+Q find the first 100 prime => while loop
+
+
+for variable in range():
+
+
+for variable in iterator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

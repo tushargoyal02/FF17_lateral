@@ -1,0 +1,22 @@
+Q1 Namespace
+Q2 Generator vs functions
+Q3 Iterable vs iterator
+Q4 How local variable behave differently for functions as per mutuable & immutable datatype
+
+Hint => varaible length & keyword variable length argument
+
+Q5 What are decorator?
+Q6 Create user-definded exception
+	in case the first value is less than second value
+	raise an exception called as
+		raise bigNumber
+	
+	Otherwise raise other exception
+		raise smallNumber
+	and also handle those exceptions
+
+
+Abstraction
+
+class Company:
+	companyName
