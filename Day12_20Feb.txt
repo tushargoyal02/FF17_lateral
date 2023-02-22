@@ -1,0 +1,11 @@
+Q1 create rating df
+	- read the data in the proper data type
+	- Typecast the unix timestamp to => datatime
+
+Q2 create movies df
+	Read it properly into the datatype
+
+	Join the rating & movies dataframe so that
+	which user has watched which movie name should be present
+
+	( Inner )
