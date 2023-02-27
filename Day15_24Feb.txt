@@ -1,0 +1,49 @@
+
+Q1 In the current folder create a desktop folder, in the desktop folder create a file with your name and create subolder with your surname
+	- Now from the /home/{user} folder try to remove the file and sub-folder both 
+	- Describe the task you have performed while removing
+
+
+Q2 Check the current user, in the current user folder
+	Create the folder name tushar and a subfolder name "mayank" from the same folder (current user only)
+	- Create 3 file with the name data1.txt data2 and data3
+	inside tushar
+
+	Now remove only the file and while deleting file it should ask me the prompt with the warning whether to delete or not
+	Do all the operation from the current user location
+
+
+Q3 Create the file in Document folder of the user location,
+	copy the file data.txt from document to Desktop folder in /home/user
+	
+	- Now perform the same opertion make sure the file while copying should have a new name called as "newdata.txt"
+
+	
+	- Now copy the complete document folder with all subcontet into the desktop
+
+Q4 Create two folder learning & technology
+	go to learning folder create three file and move 2 file from the learing to technology folder
+	- After moving the file check it in technology folder
+
+	- from technology folder now move the third file while moving the file should name should change to "nameTushar.txt"
+
+	- Also rename the data1.txt file to "userinfo.txt"
+
+Q5 Create the folder data science and a subfolder with the data engineer in 1 single commands
+	- both the folder should be created at the same time using only 1 single command with single use of (mkdir)
+	- foldr name should have space in the middle
+
+Q6 In the /home folder create the folder with your name
+	- Make sure the folder has 10 file with the name
+	- data1.txt to data10.txt
+	- Now only copy  the file from data1.txt to data5.txt
+	into the /home/user folder
+	- remove the other file from data6 data8 from the folder
+	- copy the remaning file in side the desktop folder ( if in case the folder is not available make sure the folder should be with copy in 1 line command)
+
+Q7 Learn about wildcard character
+	*, ?, []
+
+Q8 Call by referene vs call by value
+
+Q9 Why in linux we don't require the extension for the file?

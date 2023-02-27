@@ -1,0 +1,44 @@
+wildcard character
+
+* : zero or more character
+? : only 1 character
+[] : range of character
+
+
+Q1 Search all the file starting with the letter "A" and ending with .png
+Q2 Search all the file starting with the 3rd letter "D" and ending with letter m
+
+Q3 Search all the file starting with the second letter "D" and should have "am" in the middle of the name
+
+Q4 Search all the file starting which should have last second character as "i" and should have 6 character
+
+Q5 Search all the file having "as" in middle place and make sure the file should have at least 4 character
+
+Q6 Search file having the first letter as "a or o or m"
+	file should have atleast the extension of .doc
+
+Q7 Get those file whose name where name can start with any letter from 
+	- A to T or
+	- b to r  or
+	- 1 to 7
+	or 9 or letter z
+	- Should have last 3rd character in range from z to t
+
+	Abc.txt jp.txt 1as.txt
+
+
+
+Q8 Create a soft link to any folder
+	Now move that soft link to another folder and make sure the soft link should not be broken
+
+
+Q9 Create a file in the current user create it hard link into the Desktop folder
+	- Check whether the link created is working file or not
+	- Now copy that hard link to the same folder as of original file
+	- Now unlink the file
+
+Q10 Create a hard link for any file, now create the soft link over the newly created hard link , and check if we delete the orignal file,
+is there any changes that has occured to my soft link file
+
+	- If the link is broken, create the orignial file name in the same directory as of soft link
+	- In case soft link is working fine move it in such a way the link should not be broken when shifted to the Desktop/backup folder	
