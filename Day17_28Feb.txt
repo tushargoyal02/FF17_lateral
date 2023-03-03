@@ -1,0 +1,27 @@
+Q1 find all the files which has been created by the current user and the file should be created 1 min before only
+
+Q2 Find out file which is a empty file only
+	Non empty file should not be find out
+
+Q3 create a file find it's inode value
+	- Now find the file in the current user with the same indoe value
+
+Q4 find file which has atleast 3 hard link in the current user
+Q5 Find the file which has been created by the current userid
+	-> userid (using id command)
+
+Q6 Find the file which has a size of more than 100 mb
+	- If the file is of the same size or more then move it to the current user folder
+
+Q7 Now find all the file created by the user
+	- Don't find any folder with the same
+
+Q8 Find only the files created by the user having the size less than 5 MB , after that remove all those file from the user
+	- make sure only the file should be deleted not the folder in which the file is present 
+
+
+Q9 Create a shell scripting file to read the file given as an input from the user
+	- Also take a input for the word you need to search]
+	- Get only those data where the pattern of the given string doesn't match
+
+cat $fileName | grep $word
