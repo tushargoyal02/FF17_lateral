@@ -1,0 +1,14 @@
+
+Data modeling:
+
+Conceptual data model
+
+Logical : attribute, relationship, primary key, fk
+
+Physical:
+implement in the db
+
+emtity => table
+attribute =>column
++ data type
++ implement the key
